@@ -13,7 +13,7 @@
 ### Git (for experienced users)
 
 1. Open a command line and go to `<Steam folder>/steamapps/common/Counter-Strike Global Offensive/csgo/cfg`.
-2. Run `git clone [this repo] nwL`. Make sure you don't forget the `nwL` argument after the URL.
+2. Run `git clone https://github.com/nwLSteam/csgo-scripts nwL`. Make sure you don't forget the `nwL` argument after the URL.
 3. Open (or create) `autoexec.cfg` in the `cfg` folder and add `exec nwL/main` as a separate line.
 
 ## Running
