@@ -37,8 +37,6 @@ The currently available scripts are:
         For example, it is not possible to play with more than 4 players per team on <code>de_overpass</code> without
         a complete recompile of the map.</i>
     <li><i>Note: To play Nuke this way, you do not need this script. Simply run <code>de_shortnuke</code>.</i>
-    <li><i>Note: This does not work on <code>de_vertigo</code>. Vertigo includes custom VScript that cannot be
-        emulated.</i>
     </ul>
 </td>
 <td valign="top">
@@ -47,6 +45,7 @@ The currently available scripts are:
         <li><code>de_inferno</code></li>
         <li><code>de_overpass</code></li>
         <li><code>de_train</code></li>
+        <li><code>de_vertigo</code></li>
     </ul>
    and Workshop maps with Wingman logic.
 </td>
